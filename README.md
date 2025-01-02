@@ -49,7 +49,7 @@ int double = 96;
 edad = 25;
 int x = 45;
 int y = 14;
-String g = k; ´´´
+String g = k; ```
 
 Es importante que sepas que si una variable cuenta con un error de declaración o de valor, IntelliJ subraya con *zigzag rojo* y los errores pueden ser:
 
